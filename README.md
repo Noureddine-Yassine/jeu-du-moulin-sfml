@@ -25,6 +25,3 @@ Ce jeu implémente les règles classiques du jeu du Moulin, où deux joueurs s'a
 * **Lancer l'exécutable:** `./moulin`
 * **Suivre les instructions à l'écran:** Le jeu vous guidera à travers les différentes phases du jeu (placement des pions, déplacement, etc.).
 
-## Captures d'écran## Contributeurs
-
-* [Slimani Mohamed Amine]
